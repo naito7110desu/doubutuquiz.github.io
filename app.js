@@ -58,7 +58,7 @@ const judge = (elm) => {
 const showEnd = () => {
   $question.textContent = '終了！あなたのスコアは' + score + '/' + quizLen + 'です';
   {
-    document.write('<img id="carousel__main" src="raion.png">')
+    document.write('<img src="raion.png">')
   }
   
   const $items = $doc.getElementById('js-items');
