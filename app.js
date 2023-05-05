@@ -60,7 +60,6 @@ const showEnd = () => {
   
   const $items = $doc.getElementById('js-items');
   $items.style.visibility = 'hidden';
-  <a href="xx.htm"><img src="raion.png" width=500 height=500 alt="raion"></a>
 };
 
 init();
